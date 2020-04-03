@@ -21,7 +21,7 @@
 
 ### b. 关卡设计tips：
   利用主角的移动特性:
-  - 利用冲刺技能，设计两个平台，其间的距离无法用普通跳跃跨过：![image]()
+  - 利用冲刺技能，设计两个平台，其间的距离无法用普通跳跃跨过：![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/1.gif)
   - 最简单的利用抓取上爬：![image]()
   - 最简单的利用弹墙跳，设计两个相对的墙壁：![image]()
   - 空中可以捡到的恢复角色冲刺的道具：![image]()
