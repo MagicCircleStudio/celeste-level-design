@@ -1,14 +1,16 @@
 ## 活动介绍
 - 本次活动的主题是复刻或设计《蔚蓝》(*《celeste》*)中的关卡
+  >《蔚蓝》是由开发商Matt Makes Games Inc.开发的一款平台跳跃游戏，获得了TGA2018年度最佳独立游戏奖项。平台跳跃类是一种有着悠久历史和广大受众的游戏类型，最出名的游戏系列有《超级马里奥》系列等。
 
-- 我们提供一个包含基本要素的演示项目: [演示项目](github.com/mixandjam/Celeste-Movement)
+- 我们提供一个包含基本要素的演示项目: [演示项目下载地址](github.com/mixandjam/Celeste-Movement)
 
 - 设计的目标，借助已有的演示项目:
   - 实现一个有着完整起始、终止的关卡
   - 有着完整的成功、失败判定
+  - 未提供的美术资源、关卡设计所需的含有各种功能的平台等，需要个人解决
 - 可供参考的学习资源：
-  - Celeste部分源码: [源码](github.com/NoelFB/Celeste)
-  - 与演示项目相对应的视频教程(可能需要科学上网): [视频](youtu.be/STyY26a_dPY)
+  - Celeste部分源码: [Madeline移动源码](github.com/NoelFB/Celeste)
+  - 与演示项目相对应的视频教程(可能需要科学上网): [Mix And Jam (Youtube)](youtu.be/STyY26a_dPY)
 
 ---
 ## 《蔚蓝》游戏介绍与设计思路：
@@ -32,7 +34,7 @@
   - 组合以上几种: <br>
   ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/5.gif)
 
-  一般的平台跳跃游戏：
+  一般的平台跳跃类游戏：
   - 根据时间往返移动的平台：<br>
   ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/6.gif)
   - 在空中改变角色动量的方块：<br>
@@ -44,16 +46,10 @@
   - 角色站立后过一段时间会消失的方块：<br>
   ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/10.gif)
 
-事实上，组合以上这些元素就可以设计出很有意思的关卡了，例如：<br>
-![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/exp1.gif)
-
-倘若更进一步，可以设计出这样的关卡:<br>
-![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/exp2.gif)
-
-当然，更好的方式是购买celeste，在游戏中亲身体会该游戏的关卡设计，在此贴上celeste的steam链接(PS Store/Xbox/NS/Epic均已登录，可自行查询): [celeste](https://store.steampowered.com/app/504230/Celeste/)
+事实上，仅仅组合以上元素已经可以设计出相当有趣味性的关卡了，在此贴上蔚蓝中某一关的通关视频 [蔚蓝1c](https://www.bilibili.com/video/BV1a7411g7Ci) 作为参考，当然，更好的方式是购买游戏在游戏中体会关卡设计的精妙，并运用于自己的实践之中。
 
 ---
 ### c. 个人意见：
-我个人认为，设计关卡的核心思想，不仅是要组合多种元素进行设计，更是要让玩家需要思考如何分配自己的跳跃、冲刺和体力资源来通过这个关卡（类似于解谜），并且在玩家通关的过程中，可以通过限制玩家的“休息时间”（即玩家在通过整关之时，中间可以停留的时间，例如完全不留可以站立的平台，参考设计实例1），来提升玩家在通过关卡后的成就感。当然，难度设计要合理。
+我个人认为，设计关卡的核心思想，不仅是要组合多种元素进行设计，更是要让玩家需要思考如何分配自己的跳跃、冲刺和体力资源来通过这个关卡（类似于解谜），并且在玩家通关的过程中，可以通过限制玩家的“休息时间”（即玩家在通过整关之时，中间可以停留的时间，例如完全不留可以站立的平台，参考设计实例1），来提升玩家在通过关卡后的成就感。**当然，难度设计要合理。**
 
 
