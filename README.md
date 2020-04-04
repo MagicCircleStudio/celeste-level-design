@@ -2,15 +2,15 @@
 - 本次活动的主题是复刻或设计《蔚蓝》(*《celeste》*)中的关卡
   >《蔚蓝》是由开发商Matt Makes Games Inc.开发的一款平台跳跃游戏，获得了TGA2018年度最佳独立游戏奖项。平台跳跃类是一种有着悠久历史和广大受众的游戏类型，最出名的游戏系列有《超级马里奥》系列等。
 
-- 我们提供一个包含基本要素的演示项目: [演示项目下载地址](github.com/mixandjam/Celeste-Movement)
+- 我们提供一个包含基本要素的演示项目: [演示项目下载地址](https://github.com/mixandjam/Celeste-Movement)
 
 - 设计的目标，借助已有的演示项目:
   - 实现一个有着完整起始、终止的关卡
   - 有着完整的成功、失败判定
   - 未提供的美术资源、关卡设计所需的含有各种功能的平台等，需要个人解决
 - 可供参考的学习资源：
-  - Celeste部分源码: [Madeline移动源码](github.com/NoelFB/Celeste)
-  - 与演示项目相对应的视频教程(可能需要科学上网): [Mix And Jam (Youtube)](youtu.be/STyY26a_dPY)
+  - Celeste部分源码: [Madeline移动源码](https://github.com/mixandjam/Celeste-Movement)
+  - 与演示项目相对应的视频教程(可能需要科学上网): [Mix And Jam (Youtube)](https://www.youtube.com/watch?v=STyY26a_dPY&feature=youtu.be)
 
 ---
 ## 《蔚蓝》游戏介绍与设计思路：
