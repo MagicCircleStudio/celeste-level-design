@@ -10,7 +10,7 @@
   - 有着完整的成功、失败判定
   - 未提供的美术资源、关卡设计所需的含有各种功能的平台等，需要个人解决
 - 可供参考的学习资源：
-  - Celeste部分源码: [Madeline移动源码](github.com/NoelFB/Celeste)
+  - Celeste部分源码: [Madeline移动源码](https://github.com/NoelFB/Celeste)
   - 与演示项目相对应的视频教程(可能需要科学上网): [Mix And Jam (Youtube)](https://www.youtube.com/watch?v=STyY26a_dPY&feature=youtu.be)
 
 ---
@@ -26,8 +26,6 @@
   利用主角的移动特性:
   - 利用冲刺技能，设计两个平台，其间的距离无法用普通跳跃跨过:<br>
     ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/1.gif)
-
-![image](gifs/1.gif)
 
   - 最简单的利用抓取上爬:<br>
     ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/2.gif)
