@@ -1,7 +1,8 @@
 ## 活动介绍
 - 本次活动的主题是复刻或设计《蔚蓝》(*《celeste》*)中的关卡
-  >《蔚蓝》是由开发商Matt Makes Games Inc.开发的一款平台跳跃游戏，获得了TGA2018年度最佳独立游戏奖项。平台跳跃类是一种有着悠久历史和广大受众的游戏类型，最出名的游戏系列有《超级马里奥》系列等。
-
+  
+>《蔚蓝》是由开发商Matt Makes Games Inc.开发的一款平台跳跃游戏，获得了TGA2018年度最佳独立游戏奖项。平台跳跃类是一种有着悠久历史和广大受众的游戏类型，最出名的游戏系列有《超级马里奥》系列等。
+  
 - 我们提供一个包含基本要素的演示项目: [演示项目下载地址](https://github.com/mixandjam/Celeste-Movement)
 
 - 设计的目标，借助已有的演示项目:
@@ -9,7 +10,7 @@
   - 有着完整的成功、失败判定
   - 未提供的美术资源、关卡设计所需的含有各种功能的平台等，需要个人解决
 - 可供参考的学习资源：
-  - Celeste部分源码: [Madeline移动源码](https://github.com/mixandjam/Celeste-Movement)
+  - Celeste部分源码: [Madeline移动源码](github.com/NoelFB/Celeste)
   - 与演示项目相对应的视频教程(可能需要科学上网): [Mix And Jam (Youtube)](https://www.youtube.com/watch?v=STyY26a_dPY&feature=youtu.be)
 
 ---
@@ -24,27 +25,30 @@
 ### b. 关卡设计tips：
   利用主角的移动特性:
   - 利用冲刺技能，设计两个平台，其间的距离无法用普通跳跃跨过:<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/1.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/1.gif)
+
+![image](gifs/1.gif)
+
   - 最简单的利用抓取上爬:<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/2.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/2.gif)
   - 最简单的利用弹墙跳，设计两个相对的墙壁：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/3.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/3.gif)
   - 空中可以捡到的恢复角色冲刺的道具：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/4.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/4.gif)
   - 组合以上几种: <br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/5.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/5.gif)
 
   一般的平台跳跃类游戏：
   - 根据时间往返移动的平台：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/6.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/6.gif)
   - 在空中改变角色动量的方块：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/7.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/7.gif)
   - 角色触碰便会死亡的方块：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/8.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/8.gif)
   - 角色触碰便会移动的方块：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/9.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/9.gif)
   - 角色站立后过一段时间会消失的方块：<br>
-  ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/10.gif)
+    ![image](https://github.com/MagicCircleStudio/celeste-level-design/blob/master/gifs/10.gif)
 
 事实上，仅仅组合以上元素已经可以设计出相当有趣味性的关卡了，在此贴上蔚蓝中某一关的通关视频 [蔚蓝1c](https://www.bilibili.com/video/BV1a7411g7Ci) 作为参考，当然，更好的方式是购买游戏在游戏中体会关卡设计的精妙，并运用于自己的实践之中。
 
